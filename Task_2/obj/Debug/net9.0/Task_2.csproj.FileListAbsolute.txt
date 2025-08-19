@@ -229,3 +229,4 @@ D:\College\ITI\Labs\MVC_2\Task_2\Task_2\obj\Debug\net9.0\refint\Task_2.dll
 D:\College\ITI\Labs\MVC_2\Task_2\Task_2\obj\Debug\net9.0\Task_2.pdb
 D:\College\ITI\Labs\MVC_2\Task_2\Task_2\obj\Debug\net9.0\Task_2.genruntimeconfig.cache
 D:\College\ITI\Labs\MVC_2\Task_2\Task_2\obj\Debug\net9.0\ref\Task_2.dll
+D:\College\ITI\Labs\MVC_2\Task_2\Task_2\obj\Debug\net9.0\Task_2.sourcelink.json

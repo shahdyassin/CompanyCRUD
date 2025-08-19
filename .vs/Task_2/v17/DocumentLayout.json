@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "D:\\College\\ITI\\Labs\\MVC_2\\Task_2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D1E1A0D4-300C-4A76-AB90-8AB649A3B3C0}|Task_2\\Task_2.csproj|d:\\college\\iti\\labs\\mvc_2\\task_2\\task_2\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D1E1A0D4-300C-4A76-AB90-8AB649A3B3C0}|Task_2\\Task_2.csproj|solutionrelative:task_2\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D1E1A0D4-300C-4A76-AB90-8AB649A3B3C0}|Task_2\\Task_2.csproj|d:\\college\\iti\\labs\\mvc_2\\task_2\\task_2\\views\\employee\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1E1A0D4-300C-4A76-AB90-8AB649A3B3C0}|Task_2\\Task_2.csproj|solutionrelative:task_2\\views\\employee\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1E1A0D4-300C-4A76-AB90-8AB649A3B3C0}|Task_2\\Task_2.csproj|d:\\college\\iti\\labs\\mvc_2\\task_2\\task_2\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1E1A0D4-300C-4A76-AB90-8AB649A3B3C0}|Task_2\\Task_2.csproj|solutionrelative:task_2\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D1E1A0D4-300C-4A76-AB90-8AB649A3B3C0}|Task_2\\Task_2.csproj|d:\\college\\iti\\labs\\mvc_2\\task_2\\task_2\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D1E1A0D4-300C-4A76-AB90-8AB649A3B3C0}|Task_2\\Task_2.csproj|solutionrelative:task_2\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1E1A0D4-300C-4A76-AB90-8AB649A3B3C0}|Task_2\\Task_2.csproj|d:\\college\\iti\\labs\\mvc_2\\task_2\\task_2\\views\\department\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1E1A0D4-300C-4A76-AB90-8AB649A3B3C0}|Task_2\\Task_2.csproj|solutionrelative:task_2\\views\\department\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1E1A0D4-300C-4A76-AB90-8AB649A3B3C0}|Task_2\\Task_2.csproj|d:\\college\\iti\\labs\\mvc_2\\task_2\\task_2\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1E1A0D4-300C-4A76-AB90-8AB649A3B3C0}|Task_2\\Task_2.csproj|solutionrelative:task_2\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1E1A0D4-300C-4A76-AB90-8AB649A3B3C0}|Task_2\\Task_2.csproj|d:\\college\\iti\\labs\\mvc_2\\task_2\\task_2\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1E1A0D4-300C-4A76-AB90-8AB649A3B3C0}|Task_2\\Task_2.csproj|solutionrelative:task_2\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D1E1A0D4-300C-4A76-AB90-8AB649A3B3C0}|Task_2\\Task_2.csproj|d:\\college\\iti\\labs\\mvc_2\\task_2\\task_2\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,16 +35,8 @@
       "RelativeMoniker": "D:0:0:{D1E1A0D4-300C-4A76-AB90-8AB649A3B3C0}|Task_2\\Task_2.csproj|solutionrelative:task_2\\models\\companydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D1E1A0D4-300C-4A76-AB90-8AB649A3B3C0}|Task_2\\Task_2.csproj|d:\\college\\iti\\labs\\mvc_2\\task_2\\task_2\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D1E1A0D4-300C-4A76-AB90-8AB649A3B3C0}|Task_2\\Task_2.csproj|solutionrelative:task_2\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D1E1A0D4-300C-4A76-AB90-8AB649A3B3C0}|Task_2\\Task_2.csproj|d:\\college\\iti\\labs\\mvc_2\\task_2\\task_2\\views\\department\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D1E1A0D4-300C-4A76-AB90-8AB649A3B3C0}|Task_2\\Task_2.csproj|solutionrelative:task_2\\views\\department\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D1E1A0D4-300C-4A76-AB90-8AB649A3B3C0}|Task_2\\Task_2.csproj|d:\\college\\iti\\labs\\mvc_2\\task_2\\task_2\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D1E1A0D4-300C-4A76-AB90-8AB649A3B3C0}|Task_2\\Task_2.csproj|solutionrelative:task_2\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D1E1A0D4-300C-4A76-AB90-8AB649A3B3C0}|Task_2\\Task_2.csproj|d:\\college\\iti\\labs\\mvc_2\\task_2\\task_2\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -39,20 +47,12 @@
       "RelativeMoniker": "D:0:0:{D1E1A0D4-300C-4A76-AB90-8AB649A3B3C0}|Task_2\\Task_2.csproj|solutionrelative:task_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D1E1A0D4-300C-4A76-AB90-8AB649A3B3C0}|Task_2\\Task_2.csproj|d:\\college\\iti\\labs\\mvc_2\\task_2\\task_2\\views\\employee\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D1E1A0D4-300C-4A76-AB90-8AB649A3B3C0}|Task_2\\Task_2.csproj|solutionrelative:task_2\\views\\employee\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D1E1A0D4-300C-4A76-AB90-8AB649A3B3C0}|Task_2\\Task_2.csproj|d:\\college\\iti\\labs\\mvc_2\\task_2\\task_2\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D1E1A0D4-300C-4A76-AB90-8AB649A3B3C0}|Task_2\\Task_2.csproj|solutionrelative:task_2\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D1E1A0D4-300C-4A76-AB90-8AB649A3B3C0}|Task_2\\Task_2.csproj|d:\\college\\iti\\labs\\mvc_2\\task_2\\task_2\\views\\department\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D1E1A0D4-300C-4A76-AB90-8AB649A3B3C0}|Task_2\\Task_2.csproj|solutionrelative:task_2\\views\\department\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D1E1A0D4-300C-4A76-AB90-8AB649A3B3C0}|Task_2\\Task_2.csproj|d:\\college\\iti\\labs\\mvc_2\\task_2\\task_2\\views\\department\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D1E1A0D4-300C-4A76-AB90-8AB649A3B3C0}|Task_2\\Task_2.csproj|solutionrelative:task_2\\views\\department\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D1E1A0D4-300C-4A76-AB90-8AB649A3B3C0}|Task_2\\Task_2.csproj|d:\\college\\iti\\labs\\mvc_2\\task_2\\task_2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -70,7 +70,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -90,39 +90,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\College\\ITI\\Labs\\MVC_2\\Task_2\\Task_2\\Views\\Employee\\Create.cshtml",
-              "RelativeDocumentMoniker": "Task_2\\Views\\Employee\\Create.cshtml",
-              "ToolTip": "D:\\College\\ITI\\Labs\\MVC_2\\Task_2\\Task_2\\Views\\Employee\\Create.cshtml",
-              "RelativeToolTip": "Task_2\\Views\\Employee\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-19T11:32:35.055Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "D:\\College\\ITI\\Labs\\MVC_2\\Task_2\\Task_2\\Models\\Employee.cs",
-              "RelativeDocumentMoniker": "Task_2\\Models\\Employee.cs",
-              "ToolTip": "D:\\College\\ITI\\Labs\\MVC_2\\Task_2\\Task_2\\Models\\Employee.cs",
-              "RelativeToolTip": "Task_2\\Models\\Employee.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T11:12:23.543Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "EmployeeController.cs",
               "DocumentMoniker": "D:\\College\\ITI\\Labs\\MVC_2\\Task_2\\Task_2\\Controllers\\EmployeeController.cs",
               "RelativeDocumentMoniker": "Task_2\\Controllers\\EmployeeController.cs",
               "ToolTip": "D:\\College\\ITI\\Labs\\MVC_2\\Task_2\\Task_2\\Controllers\\EmployeeController.cs",
               "RelativeToolTip": "Task_2\\Controllers\\EmployeeController.cs",
-              "ViewState": "AgIAAFUAAAAAAAAAAAAwwF4AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCkAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-19T10:14:50.217Z",
               "EditorCaption": ""
@@ -130,32 +104,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\College\\ITI\\Labs\\MVC_2\\Task_2\\Task_2\\Views\\Department\\Index.cshtml",
-              "RelativeDocumentMoniker": "Task_2\\Views\\Department\\Index.cshtml",
-              "ToolTip": "D:\\College\\ITI\\Labs\\MVC_2\\Task_2\\Task_2\\Views\\Department\\Index.cshtml",
-              "RelativeToolTip": "Task_2\\Views\\Department\\Index.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-19T10:11:21.307Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DepartmentController.cs",
-              "DocumentMoniker": "D:\\College\\ITI\\Labs\\MVC_2\\Task_2\\Task_2\\Controllers\\DepartmentController.cs",
-              "RelativeDocumentMoniker": "Task_2\\Controllers\\DepartmentController.cs",
-              "ToolTip": "D:\\College\\ITI\\Labs\\MVC_2\\Task_2\\Task_2\\Controllers\\DepartmentController.cs",
-              "RelativeToolTip": "Task_2\\Controllers\\DepartmentController.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAUwCwAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T10:00:50.943Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\College\\ITI\\Labs\\MVC_2\\Task_2\\Task_2\\Program.cs",
               "RelativeDocumentMoniker": "Task_2\\Program.cs",
@@ -163,12 +111,11 @@
               "RelativeToolTip": "Task_2\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T10:24:23.777Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-19T10:24:23.777Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "CompanyDbContext.cs",
               "DocumentMoniker": "D:\\College\\ITI\\Labs\\MVC_2\\Task_2\\Task_2\\Models\\CompanyDbContext.cs",
               "RelativeDocumentMoniker": "Task_2\\Models\\CompanyDbContext.cs",
@@ -176,25 +123,24 @@
               "RelativeToolTip": "Task_2\\Models\\CompanyDbContext.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAywFQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T09:58:17.807Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-19T09:58:17.807Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 3,
               "Title": "Create.cshtml",
               "DocumentMoniker": "D:\\College\\ITI\\Labs\\MVC_2\\Task_2\\Task_2\\Views\\Department\\Create.cshtml",
               "RelativeDocumentMoniker": "Task_2\\Views\\Department\\Create.cshtml",
               "ToolTip": "D:\\College\\ITI\\Labs\\MVC_2\\Task_2\\Task_2\\Views\\Department\\Create.cshtml",
               "RelativeToolTip": "Task_2\\Views\\Department\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-08-19T10:27:29.177Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "D:\\College\\ITI\\Labs\\MVC_2\\Task_2\\Task_2\\Views\\Department\\Edit.cshtml",
               "RelativeDocumentMoniker": "Task_2\\Views\\Department\\Edit.cshtml",
@@ -202,25 +148,87 @@
               "RelativeToolTip": "Task_2\\Views\\Department\\Edit.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-19T10:30:32.313Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-19T10:30:32.313Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "D:\\College\\ITI\\Labs\\MVC_2\\Task_2\\Task_2\\Views\\Employee\\Edit.cshtml",
               "RelativeDocumentMoniker": "Task_2\\Views\\Employee\\Edit.cshtml",
               "ToolTip": "D:\\College\\ITI\\Labs\\MVC_2\\Task_2\\Task_2\\Views\\Employee\\Edit.cshtml",
               "RelativeToolTip": "Task_2\\Views\\Employee\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAABuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-08-19T10:55:59.473Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\College\\ITI\\Labs\\MVC_2\\Task_2\\Task_2\\Views\\Employee\\Create.cshtml",
+              "RelativeDocumentMoniker": "Task_2\\Views\\Employee\\Create.cshtml",
+              "ToolTip": "D:\\College\\ITI\\Labs\\MVC_2\\Task_2\\Task_2\\Views\\Employee\\Create.cshtml",
+              "RelativeToolTip": "Task_2\\Views\\Employee\\Create.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-19T11:32:35.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\College\\ITI\\Labs\\MVC_2\\Task_2\\Task_2\\Views\\Employee\\Details.cshtml",
+              "RelativeDocumentMoniker": "Task_2\\Views\\Employee\\Details.cshtml",
+              "ToolTip": "D:\\College\\ITI\\Labs\\MVC_2\\Task_2\\Task_2\\Views\\Employee\\Details.cshtml",
+              "RelativeToolTip": "Task_2\\Views\\Employee\\Details.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-19T10:53:29.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\College\\ITI\\Labs\\MVC_2\\Task_2\\Task_2\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Task_2\\Models\\Employee.cs",
+              "ToolTip": "D:\\College\\ITI\\Labs\\MVC_2\\Task_2\\Task_2\\Models\\Employee.cs",
+              "RelativeToolTip": "Task_2\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T11:12:23.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "D:\\College\\ITI\\Labs\\MVC_2\\Task_2\\Task_2\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "Task_2\\Controllers\\DepartmentController.cs",
+              "ToolTip": "D:\\College\\ITI\\Labs\\MVC_2\\Task_2\\Task_2\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "Task_2\\Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAUwCwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T10:00:50.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\College\\ITI\\Labs\\MVC_2\\Task_2\\Task_2\\Views\\Department\\Index.cshtml",
+              "RelativeDocumentMoniker": "Task_2\\Views\\Department\\Index.cshtml",
+              "ToolTip": "D:\\College\\ITI\\Labs\\MVC_2\\Task_2\\Task_2\\Views\\Department\\Index.cshtml",
+              "RelativeToolTip": "Task_2\\Views\\Department\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-19T10:11:21.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\College\\ITI\\Labs\\MVC_2\\Task_2\\Task_2\\Views\\Employee\\Index.cshtml",
               "RelativeDocumentMoniker": "Task_2\\Views\\Employee\\Index.cshtml",
@@ -228,12 +236,11 @@
               "RelativeToolTip": "Task_2\\Views\\Employee\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-19T10:20:55.218Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-19T10:20:55.218Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Details.cshtml",
               "DocumentMoniker": "D:\\College\\ITI\\Labs\\MVC_2\\Task_2\\Task_2\\Views\\Department\\Details.cshtml",
               "RelativeDocumentMoniker": "Task_2\\Views\\Department\\Details.cshtml",
@@ -241,8 +248,7 @@
               "RelativeToolTip": "Task_2\\Views\\Department\\Details.cshtml",
               "ViewState": "AgIAAAEAAAAAAAAAAAAuwBEAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-19T10:12:04.146Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-19T10:12:04.146Z"
             },
             {
               "$type": "Document",
@@ -254,21 +260,7 @@
               "RelativeToolTip": "Task_2\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAABxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-19T10:12:52.7Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "D:\\College\\ITI\\Labs\\MVC_2\\Task_2\\Task_2\\Views\\Employee\\Details.cshtml",
-              "RelativeDocumentMoniker": "Task_2\\Views\\Employee\\Details.cshtml",
-              "ToolTip": "D:\\College\\ITI\\Labs\\MVC_2\\Task_2\\Task_2\\Views\\Employee\\Details.cshtml",
-              "RelativeToolTip": "Task_2\\Views\\Employee\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-19T10:53:29.411Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-19T10:12:52.7Z"
             },
             {
               "$type": "Document",
@@ -280,8 +272,7 @@
               "RelativeToolTip": "Task_2\\Models\\Department.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T09:58:50.495Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-19T09:58:50.495Z"
             }
           ]
         }

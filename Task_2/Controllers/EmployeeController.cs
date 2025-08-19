@@ -37,7 +37,7 @@ namespace Task_2.Controllers
         }
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("EmployeeId,FirstName,LastName,DepartmentId")] Employee employee)
+        public async Task<IActionResult> Create([Bind("Id,FirstName,LastName,DepartmentId")] Employee employee)
         {
             if (ModelState.IsValid)
             {
