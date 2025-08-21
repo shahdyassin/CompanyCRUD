@@ -11,6 +11,24 @@ namespace Task_2.Controllers
         {
             _context = context;
         }
+
+        public IActionResult TestAjax()
+        {
+            return View();
+        }
+
+        public IActionResult GetEmployeesAjax(int id)
+        {
+            var employees = _context.Employees
+                            .Where(e => e.DepartmentId == id)
+                            .ToList();
+            if (employees.Count == 0)
+            {
+                return PartialView("_NoEmployees");
+            }
+
+            return PartialView("_EmployeesByDepartment", employees);
+        }
         public async Task<IActionResult> Index()
         {
             return View(await _context.Departments.ToListAsync());

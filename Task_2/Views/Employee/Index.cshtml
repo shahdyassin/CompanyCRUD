@@ -1,31 +1,28 @@
-﻿@model IEnumerable<Task_2.Models.Employee>
+﻿<div class="container mt-4">
+    <h2 class="text-center mb-4">Employees</h2>
 
-<h2>Employees</h2>
+    <div class="mb-3">
+        <a asp-action="Create" class="btn btn-success">Create New</a>
+    </div>
 
-<p>
-    <a asp-action="Create">Create New</a>
-</p>
-<table class="table">
-    <thead>
-        <tr>
-            <th>Name</th>
-            <th>Salary</th>
-        </tr>
-    </thead>
-    <tbody>
-        @foreach (var item in Model)
+    <div class="row">
+        @foreach (var emp in Model)
         {
-            <tr>
-                <td>@($"{item.FirstName} {item.LastName}")</td>
-                <td>
-                    <a asp-action="Edit" asp-route-id="@item.EmployeeId">Edit</a> |
-                    <a asp-action="Details" asp-route-id="@item.EmployeeId">Details</a> |
-                    <form asp-action="Delete" asp-route-id="@item.EmployeeId" method="post" style="display:inline">
-                        <button type="submit" class="btn btn-danger btn-sm">Delete</button>
-                    </form>
-                </td>
-            </tr>
-        }
-    </tbody>
-</table>
+            <div class="col-md-3 mb-3">
+                <div class="card shadow p-3">
+                    <p><strong>Name :</strong> @emp.FirstName @emp.LastName</p>
+                    <p><strong>Department :</strong> @emp.Department?.Name</p>
 
+                    <div class="d-flex justify-content-between">
+                        <a asp-action="Edit" asp-route-id="@emp.EmployeeId" class="btn btn-primary btn-sm">Edit</a>
+                        <a asp-action="Details" asp-route-id="@emp.EmployeeId" class="btn btn-info btn-sm">Details</a>
+                        <form asp-action="Delete" asp-route-id="@emp.EmployeeId" method="post" style="display:inline;">
+                            <button type="submit" class="btn btn-danger btn-sm">Delete</button>
+                        </form>
+
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>

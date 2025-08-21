@@ -1,27 +1,21 @@
-﻿@model Task_2.Models.Department
+﻿<h2>Department: @Model.Name</h2>
 
-<h2>Department: @Model.Name</h2>
+<button id="loadBtn" class="btn btn-primary" data-id="@Model.DepartmentId">Load Employees</button>
 
-<h3>Employees</h3>
-<table class="table">
-    <thead>
-        <tr>
-            <th>First Name</th>
-            <th>Last Name</th>
-        </tr>
-    </thead>
-    <tbody>
-        @foreach (var emp in Model.Employees)
-        {
-            <tr>
-                <td>@emp.FirstName</td>
-                <td>@emp.LastName</td>
-            </tr>
-        }
-    </tbody>
-</table>
+<div id="employeesContainer">
+   
+</div>
 
-<p>
-    <a asp-action="Index">Back to List</a>
-</p>
+@section Scripts {
+    <script>
+        document.getElementById("loadBtn").addEventListener("click", function () {
+            let deptId = this.getAttribute("data-id");
 
+            fetch(`/Department/GetEmployeesAjax/${deptId}`)
+                .then(res => res.text())   
+                .then(html => {
+                    document.getElementById("employeesContainer").innerHTML = html;
+                });
+        });
+    </script>
+}

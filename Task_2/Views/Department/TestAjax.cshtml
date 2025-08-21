@@ -1,0 +1,20 @@
+﻿@* <h2>Test Ajax</h2>
+<button id="loadBtn" class="btn btn-primary">Load Employees</button>
+<ul id="empList"></ul>
+
+<script>
+    document.getElementById("loadBtn").addEventListener("click", function () {
+        fetch('/Department/GetEmployeesAjax')
+            .then(res => res.json())
+            .then(data => {
+                let list = document.getElementById("empList");
+                list.innerHTML = "";
+                data.forEach(e => {
+                    let li = document.createElement("li");
+                    li.innerText = `${e.id} - ${e.firstName} ${e.lastName}`;
+                    list.appendChild(li);
+                });
+            });
+    });
+</script>
+ *@

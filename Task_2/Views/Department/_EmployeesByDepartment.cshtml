@@ -1,0 +1,22 @@
+﻿@model IEnumerable<Task_2.Models.Employee>
+
+<div class="row">
+    @foreach (var emp in Model)
+    {
+        <div class="col-md-4">
+            <div class="card mb-3 shadow-sm">
+                <div class="card-body">
+                    <h5 class="card-title">@emp.FirstName @emp.LastName</h5>
+                    <a asp-controller="Employee" asp-action="Details" asp-route-id="@emp.EmployeeId" class="btn btn-info btn-sm">Details</a>
+                    <a asp-controller="Employee" asp-action="Edit" asp-route-id="@emp.EmployeeId" class="btn btn-warning btn-sm">Edit</a>
+                    <form asp-controller="Employee" asp-action="Delete" asp-route-id="@emp.EmployeeId" method="post" style="display:inline">
+                        <button type="submit" class="btn btn-danger btn-sm">Delete</button>
+                    </form>
+
+
+
+                </div>
+            </div>
+        </div>
+    }
+</div>

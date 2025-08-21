@@ -1,31 +1,28 @@
 ﻿@model IEnumerable<Task_2.Models.Department>
 
-<h2>Departments</h2>
+<div class="container mt-4">
+    <h2 class="text-center mb-4">Departments</h2>
 
-<p>
-    <a asp-action="Create">Create New</a>
-</p>
-<table class="table">
-    <thead>
-        <tr>
-            <th>Name</th>
-            <th></th>
-        </tr>
-    </thead>
-    <tbody>
-        @foreach (var item in Model)
+    <div class="mb-3">
+        <a asp-action="Create" class="btn btn-success">Create New</a>
+    </div>
+
+    <div class="row">
+        @foreach (var dept in Model)
         {
-            <tr>
-                <td>@item.Name</td>
-                <td>
-                    <a asp-action="Edit" asp-route-id="@item.DepartmentId">Edit</a> |
-                    <a asp-action="Details" asp-route-id="@item.DepartmentId">Details</a> |
+            <div class="col-md-3 mb-3">
+                <div class="card shadow p-3">
+                    <h5 class="card-title">@dept.Name</h5>
 
-                    <form asp-action="Delete" asp-route-id="@item.DepartmentId" method="post" style="display:inline">
-                        <button type="submit" class="btn btn-danger btn-sm">Delete</button>
-                    </form>
-                </td>
-            </tr>
+                    <div class="d-flex justify-content-between mt-3">
+                        <a asp-action="Edit" asp-route-id="@dept.DepartmentId" class="btn btn-primary btn-sm">Edit</a>
+                        <a asp-action="Details" asp-route-id="@dept.DepartmentId" class="btn btn-info btn-sm">Details</a>
+                        <form asp-action="Delete" asp-route-id="@dept.DepartmentId" method="post" style="display:inline;">
+                            <button type="submit" class="btn btn-danger btn-sm">Delete</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
         }
-    </tbody>
-</table>
+    </div>
+</div>

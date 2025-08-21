@@ -44,6 +44,18 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/College/ITI/Labs/MVC_2/Task_2/Task_2/Views/Department/TestAjax.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxUZXN0QWpheC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/College/ITI/Labs/MVC_2/Task_2/Task_2/Views/Department/_EmployeesByDepartment.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxfRW1wbG95ZWVzQnlEZXBhcnRtZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/College/ITI/Labs/MVC_2/Task_2/Task_2/Views/Department/_NoEmployees.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxfTm9FbXBsb3llZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/College/ITI/Labs/MVC_2/Task_2/Task_2/Views/Employee/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
@@ -60,12 +72,20 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/College/ITI/Labs/MVC_2/Task_2/Task_2/Views/Employee/_EmployeeCard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcX0VtcGxveWVlQ2FyZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/College/ITI/Labs/MVC_2/Task_2/Task_2/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/College/ITI/Labs/MVC_2/Task_2/Task_2/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/College/ITI/Labs/MVC_2/Task_2/Task_2/Views/Shared/Components/CompanyData/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQ29tcGFueURhdGFcRGVmYXVsdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/College/ITI/Labs/MVC_2/Task_2/Task_2/Views/Shared/Error.cshtml]

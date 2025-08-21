@@ -38,6 +38,10 @@
         </nav>
     </header>
     <div class="container">
+        <div>
+            @await Component.InvokeAsync("CompanyData")
+        </div>
+
         <main role="main" class="pb-3">
             @RenderBody()
         </main>
